@@ -1,5 +1,8 @@
 # aidlc-sbx-kits
 
+<img width="1094" height="578" alt="image" src="https://github.com/user-attachments/assets/cbda30ec-4f4f-4ada-b53f-1dcc99d18f05" />
+
+
 [Docker Sandboxes](https://docs.docker.com/ai/sandboxes/) kits that run
 AWS's [AI-Driven Development Lifecycle](https://github.com/awslabs/aidlc-workflows)
 (AI-DLC), in two shapes, each holding only the credentials and egress its
